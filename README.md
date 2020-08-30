@@ -1,4 +1,2 @@
 # First-Menu
-My first template menu.
-
-Made using HTML and CSS.
+Meu primeiro menu com animação, feito com html e css.
